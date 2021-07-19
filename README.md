@@ -4,6 +4,11 @@
 > 
 > Contato: rafaelaugustscherer@gmail.com
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustScherer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### 🇧🇷 __Linguagem__: [Português](#hoje)
 ### :us: __Language__: [English](#today) 
 ---
