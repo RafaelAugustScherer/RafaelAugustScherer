@@ -2,7 +2,9 @@
 ---
 > LinkedIn: https://www.linkedin.com/in/rafael-augusto-scherer/
 > 
-> Contato: rafaelaugustscherer@gmail.com
+> E-mail: rafaelaugustscherer@gmail.com
+> 
+> Web Portfolio: https://rafaelaugustscherer.github.io/
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
