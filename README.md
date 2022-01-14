@@ -7,8 +7,8 @@
 > Web Portfolio: https://rafaelaugustscherer.github.io/
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustScherer&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustScherer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🇧🇷 __Linguagem__: [Português](#hoje)
