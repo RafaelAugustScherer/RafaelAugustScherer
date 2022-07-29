@@ -9,6 +9,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustScherer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Snake Contribution](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## Techs & Stacks
 ### Languages | Techs
