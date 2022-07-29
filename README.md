@@ -10,7 +10,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelAugustScherer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelAugustScherer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stacks & Techs
+## Techs & Stacks
 ### Languages | Techs
 <div>
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
